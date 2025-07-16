@@ -3,6 +3,7 @@
   .attribution a { color: hsl(228, 45%, 44%); }
 
 /* reset css */
+
 * {
 	margin: 0;
 	padding: 0;
@@ -37,6 +38,9 @@
  body {
 	block-size: 100%;
  }
+
+/* _______________________________________________ */
+
 
 body{
   background: hsl(225, 100%, 94%) url("images/pattern-background-desktop.svg") no-repeat top right;
